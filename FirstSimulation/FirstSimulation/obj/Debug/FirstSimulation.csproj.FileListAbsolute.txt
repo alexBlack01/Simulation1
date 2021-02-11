@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\bin\Debug\FirstSimulation.exe.config
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\bin\Debug\FirstSimulation.exe
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\bin\Debug\FirstSimulation.pdb
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\obj\Debug\FirstSimulation.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\obj\Debug\FirstSimulation.Form1.resources
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\obj\Debug\FirstSimulation.Properties.Resources.resources
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\obj\Debug\FirstSimulation.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\obj\Debug\FirstSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\obj\Debug\FirstSimulation.exe
+C:\Users\Alex\source\repos\FirstSimulation\FirstSimulation\obj\Debug\FirstSimulation.pdb
