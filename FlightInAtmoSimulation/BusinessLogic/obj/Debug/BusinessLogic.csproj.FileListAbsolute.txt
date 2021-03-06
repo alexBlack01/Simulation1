@@ -1,0 +1,7 @@
+D:\Repository\Simulation1\FlightInAtmoSimulation\BusinessLogic\bin\Debug\BusinessLogic.exe.config
+D:\Repository\Simulation1\FlightInAtmoSimulation\BusinessLogic\bin\Debug\BusinessLogic.exe
+D:\Repository\Simulation1\FlightInAtmoSimulation\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\Repository\Simulation1\FlightInAtmoSimulation\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+D:\Repository\Simulation1\FlightInAtmoSimulation\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Repository\Simulation1\FlightInAtmoSimulation\BusinessLogic\obj\Debug\BusinessLogic.exe
+D:\Repository\Simulation1\FlightInAtmoSimulation\BusinessLogic\obj\Debug\BusinessLogic.pdb
