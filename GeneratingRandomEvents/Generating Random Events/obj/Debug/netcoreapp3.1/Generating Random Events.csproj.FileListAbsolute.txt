@@ -1,0 +1,16 @@
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\bin\Debug\netcoreapp3.1\Generating Random Events.exe
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\bin\Debug\netcoreapp3.1\Generating Random Events.deps.json
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\bin\Debug\netcoreapp3.1\Generating Random Events.runtimeconfig.json
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\bin\Debug\netcoreapp3.1\Generating Random Events.runtimeconfig.dev.json
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\bin\Debug\netcoreapp3.1\Generating Random Events.dll
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\bin\Debug\netcoreapp3.1\Generating Random Events.pdb
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating Random Events.csprojAssemblyReference.cache
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating_Random_Events.Form1.resources
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating_Random_Events.Properties.Resources.resources
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating Random Events.csproj.GenerateResource.cache
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating Random Events.AssemblyInfoInputs.cache
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating Random Events.AssemblyInfo.cs
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating Random Events.csproj.CoreCompileInputs.cache
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating Random Events.dll
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating Random Events.pdb
+C:\Users\asfsa\source\repos\Generating Random Events\Generating Random Events\obj\Debug\netcoreapp3.1\Generating Random Events.genruntimeconfig.cache
