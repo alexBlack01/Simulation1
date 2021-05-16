@@ -1,0 +1,10 @@
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\bin\Debug\Championship.exe.config
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\bin\Debug\Championship.exe
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\bin\Debug\Championship.pdb
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\obj\Debug\Championship.csprojAssemblyReference.cache
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\obj\Debug\Championship.Form1.resources
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\obj\Debug\Championship.Properties.Resources.resources
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\obj\Debug\Championship.csproj.GenerateResource.cache
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\obj\Debug\Championship.csproj.CoreCompileInputs.cache
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\obj\Debug\Championship.exe
+C:\Users\asfsa\Repository\Simulation1\Championship\Championship\obj\Debug\Championship.pdb
