@@ -1,0 +1,10 @@
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\bin\Debug\NRVGandSPOR.exe.config
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\bin\Debug\NRVGandSPOR.exe
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\bin\Debug\NRVGandSPOR.pdb
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\obj\Debug\NRVGandSPOR.csprojAssemblyReference.cache
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\obj\Debug\NRVGandSPOR.Form1.resources
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\obj\Debug\NRVGandSPOR.Properties.Resources.resources
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\obj\Debug\NRVGandSPOR.csproj.GenerateResource.cache
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\obj\Debug\NRVGandSPOR.csproj.CoreCompileInputs.cache
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\obj\Debug\NRVGandSPOR.exe
+C:\Users\asfsa\Repository\Simulation1\NRVGandSPOR\NRVGandSPOR\obj\Debug\NRVGandSPOR.pdb
