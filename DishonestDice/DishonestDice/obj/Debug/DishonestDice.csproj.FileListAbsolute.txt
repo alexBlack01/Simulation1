@@ -1,0 +1,10 @@
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\bin\Debug\DishonestDice.exe.config
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\bin\Debug\DishonestDice.exe
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\bin\Debug\DishonestDice.pdb
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\obj\Debug\DishonestDice.csprojAssemblyReference.cache
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\obj\Debug\DishonestDice.Form1.resources
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\obj\Debug\DishonestDice.Properties.Resources.resources
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\obj\Debug\DishonestDice.csproj.GenerateResource.cache
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\obj\Debug\DishonestDice.csproj.CoreCompileInputs.cache
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\obj\Debug\DishonestDice.exe
+C:\Users\asfsa\Repository\Simulation1\DishonestDice\DishonestDice\obj\Debug\DishonestDice.pdb
