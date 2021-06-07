@@ -1,0 +1,10 @@
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\bin\Debug\WeatherSimulator.exe.config
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\bin\Debug\WeatherSimulator.exe
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\bin\Debug\WeatherSimulator.pdb
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\obj\Debug\WeatherSimulator.csprojAssemblyReference.cache
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\obj\Debug\WeatherSimulator.Form1.resources
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\obj\Debug\WeatherSimulator.Properties.Resources.resources
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\obj\Debug\WeatherSimulator.csproj.GenerateResource.cache
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\obj\Debug\WeatherSimulator.csproj.CoreCompileInputs.cache
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\obj\Debug\WeatherSimulator.exe
+C:\Users\asfsa\Repository\Simulation1\WeatherSimulator\WeatherSimulator\obj\Debug\WeatherSimulator.pdb
