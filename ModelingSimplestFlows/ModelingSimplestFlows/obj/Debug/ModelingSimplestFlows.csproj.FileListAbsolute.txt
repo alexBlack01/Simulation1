@@ -1,0 +1,10 @@
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\bin\Debug\ModelingSimplestFlows.exe.config
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\bin\Debug\ModelingSimplestFlows.exe
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\bin\Debug\ModelingSimplestFlows.pdb
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\obj\Debug\ModelingSimplestFlows.csprojAssemblyReference.cache
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\obj\Debug\ModelingSimplestFlows.Form1.resources
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\obj\Debug\ModelingSimplestFlows.Properties.Resources.resources
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\obj\Debug\ModelingSimplestFlows.csproj.GenerateResource.cache
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\obj\Debug\ModelingSimplestFlows.csproj.CoreCompileInputs.cache
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\obj\Debug\ModelingSimplestFlows.exe
+C:\Users\asfsa\Repository\Simulation1\ModelingSimplestFlows\ModelingSimplestFlows\obj\Debug\ModelingSimplestFlows.pdb
