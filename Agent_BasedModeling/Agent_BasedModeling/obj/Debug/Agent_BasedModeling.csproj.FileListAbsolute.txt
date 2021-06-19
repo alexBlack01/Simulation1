@@ -1,0 +1,10 @@
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\bin\Debug\Agent_BasedModeling.exe.config
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\bin\Debug\Agent_BasedModeling.exe
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\bin\Debug\Agent_BasedModeling.pdb
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\obj\Debug\Agent_BasedModeling.csprojAssemblyReference.cache
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\obj\Debug\Agent_BasedModeling.Form1.resources
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\obj\Debug\Agent_BasedModeling.Properties.Resources.resources
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\obj\Debug\Agent_BasedModeling.csproj.GenerateResource.cache
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\obj\Debug\Agent_BasedModeling.csproj.CoreCompileInputs.cache
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\obj\Debug\Agent_BasedModeling.exe
+C:\Users\asfsa\Repository\Simulation1\Agent_BasedModeling\Agent_BasedModeling\obj\Debug\Agent_BasedModeling.pdb
